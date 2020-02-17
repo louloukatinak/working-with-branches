@@ -3,5 +3,7 @@ Pear
 Raspberry
 Melon
 Grapes
-trawberries
+Strawberries
 Blackberries
+Bananas
+
